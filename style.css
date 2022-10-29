@@ -1,0 +1,26 @@
+ul{
+    list-style-type: none; /* Убираем маркеры у списка */
+}
+
+
+body {
+    background-color: #ebebc8;
+    color: #06065a;
+    font-size: 130%;
+}  
+
+.textDigitalInstitute {
+    text-align: center;
+}
+
+.digitalInstitute {
+    color: #4d0d07;
+}
+
+.peopleText {
+    color: #036c32;
+}
+
+.people {
+    color: #094651;
+}
