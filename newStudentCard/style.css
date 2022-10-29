@@ -1,0 +1,54 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Island Moments', cursive;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #100dbf;
+}
+
+.rightCloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.leftCloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.topContainer {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 106px;
+}
