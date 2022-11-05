@@ -1,0 +1,38 @@
+#title{
+    background-color: #ff3c68;
+    color: #fff;
+}
+
+.meetText{
+    font-family: 'Montserrat', black;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.navbar.navbar-expand-lg.navbar-dark{
+    padding-bottom: 4,5rem;
+}
+
+.nav-item{
+    padding: 0.18px ;
+}
+
+.nav-link{
+    font-size: larger;
+    font-family: 'Montserrat', light;
+    font-size: 1rem;
+}
+
+.download-button{
+    margin-top: 5% 3% 5% 0%;
+}
+
+.title-image{
+    width: 60%;
+    transform: rotate(25deg);
+}
